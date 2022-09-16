@@ -1,0 +1,5 @@
+C:\Users\Work\Desktop\RXPRXZ\Athena.exe
+C:\Users\Work\Desktop\RXPRXZ\Athena.dll
+C:\Users\Work\Desktop\RXPRXZ\Athena.deps.json
+C:\Users\Work\Desktop\RXPRXZ\Athena.runtimeconfig.json
+C:\Users\Work\Desktop\RXPRXZ\Athena.pdb
